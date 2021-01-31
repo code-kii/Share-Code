@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/Share-Code.31d916bc.css">
+    <title>Share Code</title>
+  </head>
+  <body>
+    <h1>Share Code</h1>
+    <div align="center">
+    <textarea name="" id="" cols="30" rows="20" placeholder="Start coding..."></textarea>
+    </div>
+  </body>
+</html>

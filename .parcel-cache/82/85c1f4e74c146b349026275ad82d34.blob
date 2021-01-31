@@ -1,0 +1,9 @@
+body { 
+  background-image: url('bkg.181d00f9.png');
+   background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: cover;
+}
+
+h1 { color: #c9d0d4; font-family: 'Helvetica Neue', sans-serif; font-size: 46px; font-weight: 100; line-height: 50px; letter-spacing: 1px; padding: 0 0 40px; border-bottom: double #555; }
+/*# sourceMappingURL=Share-Code.31d916bc.css.map */

@@ -1,0 +1,1 @@
+{"mappings":"AAAA;EACE,yDAA2C;GAC1C,4BAA4B;EAC7B,4BAA4B;EAC5B,sBAAsB;AACxB","sources":["./src/index.css"],"sourcesContent":["body { \n  background-image: url('./images/bkg-2.png');\n   background-repeat: no-repeat;\n  background-attachment: fixed; \n  background-size: cover;\n}"],"names":[],"version":3,"file":"Share-Code.31d916bc.css.map","sourceRoot":"/__parcel_source_root/"}

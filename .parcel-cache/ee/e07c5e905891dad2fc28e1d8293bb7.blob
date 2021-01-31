@@ -1,0 +1,8 @@
+body { 
+  background-image: url('6e5f542d119ad3e83f688de47ac33d35');
+   background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: cover;
+}
+
+h1 { color: #ffffff; font-family: 'Lato', sans-serif; font-size: 54px; font-weight: 300; line-height: 58px; margin: 0 0 58px; }

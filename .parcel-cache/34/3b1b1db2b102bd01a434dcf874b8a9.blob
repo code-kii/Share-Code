@@ -1,0 +1,7 @@
+body { 
+  background-image: url('bkg-2.9c35db68.png');
+   background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: cover;
+}
+/*# sourceMappingURL=Share-Code.31d916bc.css.map */

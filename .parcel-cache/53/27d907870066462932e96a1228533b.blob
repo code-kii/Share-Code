@@ -1,0 +1,17 @@
+body { 
+  background-image: url('bkg-2.9c35db68.png');
+   background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: cover;
+}
+
+h1 {
+  color: #e7dce0;
+  font-family: "Great Vibes", ; font-size: 65px;
+  line-height: 160px; font-weight: normal; margin-bottom: 0px;
+  margin-top: 5px;
+  text-align: center; 
+  text-shadow: 0 1px 1px #fff; }
+
+h1 { color: #111; font-family: 'Open Sans Condensed', sans-serif; font-size: 64px; font-weight: 700; line-height: 64px; margin: 0 0 0; padding: 20px 30px; text-align: center; text-transform: uppercase; }
+/*# sourceMappingURL=Share-Code.31d916bc.css.map */

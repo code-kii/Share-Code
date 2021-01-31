@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Share Code</title>
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li>
+          <a href="https://github.com/code-kii/Share-Code">Github</a>
+        </li>
+        <li>
+          <a href="localhost:4040">New Link</a>
+        </li>
+        <li>
+          <a href="#" onclick="copyURL()">Share Link</a>
+        </li>
+        <li>
+          <a href="https://github.com/kartikdutt18">Contact</a>
+        </li>
+      </ul>
+    </nav>
+    <h1>Share Code</h1>
+    <div align="center">
+    <textarea
+      id='codeArea'
+      class=''
+      cols="30"
+      rows="20"
+      placeholder="Start coding..."></textarea>
+    </div>
+  </body>
+<script>
+
+  function copyStringToClipboard(str) {
+    // Create new element
+    var el = document.createElement('textarea');
+    // Set value (string to be copied)
+    el.value = str;
+    // Set non-editable to avoid focus and move outside of view
+    el.setAttribute('readonly', '');
+    el.style = { position: 'absolute', left: '-9999px' };
+    document.body.appendChild(el);
+    // Select text inside element
+    el.select();
+    // Copy text to clipboard
+    document.execCommand('copy');
+    // Remove temporary element
+    document.body.removeChild(el);
+  }
+
+  function copyURL() {
+    var copyText =  window.location.href;
+    console.log(copyText);
+    copyStringToClipboard(copyText);
+    alert("Copied the text: " + copyText);
+  }
+</script>
+</html>

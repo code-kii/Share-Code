@@ -1,0 +1,2 @@
+const socketEndpoint = "wss://us-nyc-1.websocket.me/v3/1?api_key=681tFzqu4pDMkvgHcVzTOZJOGPanww2ANJwPIgvc&notify_self";
+const socket = new WebSocket(socketEndpoint);

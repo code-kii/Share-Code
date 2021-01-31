@@ -1,0 +1,14 @@
+body { 
+  background-image: url('6e5f542d119ad3e83f688de47ac33d35');
+   background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: cover;
+}
+
+h1 {
+  color: #f0ebed;
+  font-family: "Great Vibes", ; font-size: 65px;
+  line-height: 80px; font-weight: normal; margin-bottom: 0px;
+  margin-top: 5px;
+  text-align: center; 
+  text-shadow: 0 1px 1px #fff; }
